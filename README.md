@@ -6,3 +6,6 @@ study SpringBoot Framework
 
 ### day2
  - wathcer 예제실습
+
+### day3
+  - spring boot 예제 실습
