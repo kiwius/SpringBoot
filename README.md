@@ -18,3 +18,6 @@ study SpringBoot Framework
       -> https://velog.io/@hellozin/Spring-Security-Form-Login-%EA%B0%84%EB%8B%A8-%EC%82%AC%EC%9A%A9-%EC%84%A4%EB%AA%85%EC%84%9C-f2jzojj8bj
       
 ### day4
+  - 스프링 부트 배치 예제 실습
+   1. 스프링 부트 배치 참고사이트
+      -> https://ahndy84.tistory.com/18
