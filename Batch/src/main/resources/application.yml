@@ -7,6 +7,11 @@
 #            password : password
 #            driver-class-name : org.h2.driver
 #
+
+spring.batch.job.names: ${job.name:NONE}
+## 스프링 배치가 실행될 떄, program-agrument로 job.name이 넘어오면 해당값과 일치하는 job만 수행
+## ex) program argument job.name=stepNextJob
+
 spring :
     profiles : mysql
     datasource :
