@@ -12,5 +12,10 @@
         <module name="com.kiwius.batch.demo.main" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="demo.main" target="15" />
+      <module name="demo.test" target="15" />
+      <module name="Web" target="15" />
+    </bytecodeTargetLevel>
   </component>
 </project>

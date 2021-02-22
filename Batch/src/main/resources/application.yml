@@ -1,0 +1,17 @@
+#spring :
+#    profiles : local
+#    datasource :
+#        hikari :
+#            jdbc-url : jdbc:h2:mem:batch;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
+#            username : root
+#            password : password
+#            driver-class-name : org.h2.driver
+#
+spring :
+    profiles : mysql
+    datasource :
+        hikari :
+            jdbc-url : jdbc:mysql://localhost:3306/batch
+            username : root
+            password : password
+            driver-class-name : com.mysql.jdbc.Driver
