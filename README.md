@@ -23,3 +23,6 @@ study SpringBoot Framework
       -> https://ahndy84.tistory.com/18
       
 ### day5
+  - 스프링 부트 배치 예제 실습
+   1. 스프링 부트 chunk
+      -> https://jojoldu.tistory.com/331?category=902551
